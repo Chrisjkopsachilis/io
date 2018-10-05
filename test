@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Chris Kopsachilis</title>
+<meta charset="utf-8">
+<meta name="Chris Kopsachilis" content="Chris Kopsachilis">
+<meta name="description" content="Chris Kopsachilis"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="css/reset.css">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<style>
+div#page {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 30px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 16px;
+    padding: 2em;
+    display: none;
+}
+.back-to-top:hover {
+    background-color: rgba(135, 135, 135, 0.50);
+}
+</style>
+</head>
